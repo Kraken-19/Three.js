@@ -1,3 +1,4 @@
 # Three.js
 Three.js Projects:
-All Projects stored from the online-crouse "Three.js Journey" and own projects.
+Projects from the online-course "Three.js Journey" 
+and own projects.
